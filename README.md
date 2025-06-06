@@ -23,12 +23,12 @@ Cloudscendo aims to:
 
 | Technology           | Purpose                                      |
 |----------------------|----------------------------------------------|
-| AWS Rekognition      | Detects user emotion from uploaded images    |
-| AWS Kendra           | Performs semantic search on song database    |
-| Flask                | Backend web Frame-Work                        |
-| Boto3                | Python SDK to interact with AWS services     |
-| YouTube API          | Embeds and displays music videos             |
-| Spotify Data-Set      | Emotion-to-song mapping Data-Set (via Kaggle) |
+| AWS Rekognition      | Detects user emotion from uploaded images.    |
+| AWS Kendra           | Performs semantic search on song Data-Base.    |
+| Flask                | Backend web Frame-Work.                        |
+| Boto3                | Python SDK to interact with AWS Services.     |
+| YouTube API          | Embeds and displays music videos.             |
+| Spotify Data-Set      | Emotion-to-song mapping Data-Set (via Kaggle). |
 
 
 ## How It Works:
